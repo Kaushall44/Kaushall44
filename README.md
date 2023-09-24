@@ -19,8 +19,11 @@ I am **Eldarion**, born on **October 24th**, and currently residing in **India**
 ## 📞 Contact
 - Feel free to join my [Discord server](https://discord.gg/2V9SdJSGQw) and shoot a ping at me!
 
-## GitHub Stats
+## 🗽 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=eldarionn&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=eldarionn&show_icons=true&theme=radical)
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 Thank you! Stay happy and stay safe!
