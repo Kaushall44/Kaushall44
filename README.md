@@ -49,16 +49,16 @@ I believe in the power of continuous learning and the magic that happens when cr
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaushall44&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushall44&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Kaushall44&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaushall44&theme=radical" alt="GitHub Activity Graph" />
 </div>
 
 ---
