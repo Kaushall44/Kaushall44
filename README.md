@@ -1,8 +1,12 @@
-# Hey there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm **Eldarion**
+
+# Hey there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+I'm **Kaushal**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Discord+Bot+Creator;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
+
+> **He/Him | Developer. Dreamer. Discord-native.**
 
 ---
 
@@ -49,12 +53,16 @@ I believe in the power of continuous learning and the magic that happens when cr
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaushall44&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushall44&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaushall44&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushall44&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushall44&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Kaushall44&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaushall44&theme=radical" alt="GitHub Activity Graph" />
 </div>
 
 ---
