@@ -105,11 +105,7 @@
 </div>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaushall44/Kaushall44/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaushall44/Kaushall44/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kaushall44/Kaushall44/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img src="./assets/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
 </p>
 
 <p align="center">
@@ -154,16 +150,7 @@ Rapid prototyping, CTF challenges, open-source tool contributions, and turning 2
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kaushall44&show_icons=true&hide_border=true&bg_color=202321&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushall44&layout=compact&hide_border=true&bg_color=202321&title_color=39d353&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushall44&background=202321&border=202321&stroke=39d353&ring=39d353&fire=ff7b00&currStreakNum=39d353&sideNums=c9d1d9&currStreakLabel=7ee787&sideLabels=c9d1d9&dates=7ee787&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaushall44&bg_color=202321&color=c9d1d9&line=39d353&point=7ee787&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushall44&background=202321&border=202321&stroke=39d353&ring=39d353&fire=ff7b00&currStreakNum=39d353&sideNums=c9d1d9&currStreakLabel=7ee787&sideLabels=c9d1d9&dates=7ee787&hide_border=true" alt="Kaushal's GitHub Streak" />
 </p>
 
 <div align="center">
