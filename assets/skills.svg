@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72">
+<rect width="1200" height="72" fill="#202321"/>
+<text x="28" y="46" font-family="monospace" font-size="30" fill="#f2f2ed" letter-spacing="2">SKILL SET</text>
+<g fill="#39d353"><rect x="870" y="25" width="34" height="8"/><rect x="916" y="25" width="16" height="8"/><rect x="944" y="25" width="54" height="8"/><rect x="1010" y="25" width="22" height="8"/><rect x="1044" y="25" width="60" height="8"/></g>
+<g fill="#e6e6df"><rect x="904" y="25" width="12" height="8"/><rect x="998" y="25" width="12" height="8"/></g>
+<rect x="1110" y="25" width="12" height="8" fill="#ff7b00"/>
+</svg>

@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" rx="12" fill="#202321" stroke="#2c332e" stroke-width="2"/>
+  
+  <style>
+    .h { font-family: Consolas, 'Courier New', Courier, monospace; font-size: 26px; font-weight: 700; fill: #f2f2ed; letter-spacing: 2px; }
+    .p { font-family: Consolas, 'Courier New', Courier, monospace; font-size: 15.5px; fill: #b6bfb7; }
+    .g1 { fill: #39d353; }
+    .w  { fill: #e6e6df; }
+    .o  { fill: #ff7b00; }
+  </style>
+
+  <!-- ==================== WHO I AM ==================== -->
+  <g transform="translate(36, 0)">
+    <text x="0" y="52" class="h">WHO I AM</text>
+    <g transform="translate(740, 36)">
+      <rect x="0" y="0" width="34" height="8" class="g1"/>
+      <rect x="38" y="0" width="14" height="8" class="w"/>
+      <rect x="56" y="0" width="48" height="8" class="g1"/>
+      <rect x="108" y="0" width="18" height="8" class="g1"/>
+      <rect x="130" y="0" width="12" height="8" class="w"/>
+      <rect x="146" y="0" width="44" height="8" class="g1"/>
+      <rect x="194" y="0" width="56" height="8" class="g1"/>
+      <rect x="254" y="0" width="12" height="8" class="o"/>
+    </g>
+    
+    <text x="0" y="88" class="p">Hey, I'm Kaushal — a developer and engineer passionate about cybersecurity and building resilient tools.</text>
+    <text x="0" y="112" class="p">I work at the intersection of full-stack development, defensive/offensive security, and automation.</text>
+    <text x="0" y="136" class="p">I like taking complex systems apart to understand how they work, and learning how to make them harder to break.</text>
+    <text x="0" y="160" class="p">Most of my work starts with simple curiosity: "wait... can I build this, and can I secure it?"</text>
+  </g>
+
+  <!-- ==================== WHAT I DO ==================== -->
+  <g transform="translate(36, 0)">
+    <text x="0" y="218" class="h">WHAT I DO</text>
+    <g transform="translate(740, 202)">
+      <rect x="0" y="0" width="40" height="8" class="g1"/>
+      <rect x="44" y="0" width="18" height="8" class="g1"/>
+      <rect x="66" y="0" width="12" height="8" class="w"/>
+      <rect x="82" y="0" width="62" height="8" class="g1"/>
+      <rect x="148" y="0" width="22" height="8" class="g1"/>
+      <rect x="174" y="0" width="14" height="8" class="w"/>
+      <rect x="192" y="0" width="48" height="8" class="g1"/>
+      <rect x="244" y="0" width="12" height="8" class="o"/>
+    </g>
+
+    <text x="0" y="254" class="p">I build modern web software, secure APIs, and security-focused tools that solve real-world problems.</text>
+    <text x="0" y="278" class="p">Obsessed with turning ideas into production products, understanding everything from first principles,</text>
+    <text x="0" y="302" class="p">and learning by shipping software and conducting hands-on security research.</text>
+  </g>
+
+  <!-- ==================== VISION ==================== -->
+  <g transform="translate(36, 0)">
+    <text x="0" y="360" class="h">VISION</text>
+    <g transform="translate(740, 344)">
+      <rect x="0" y="0" width="28" height="8" class="g1"/>
+      <rect x="32" y="0" width="12" height="8" class="w"/>
+      <rect x="48" y="0" width="52" height="8" class="g1"/>
+      <rect x="104" y="0" width="16" height="8" class="g1"/>
+      <rect x="124" y="0" width="70" height="8" class="g1"/>
+      <rect x="198" y="0" width="12" height="8" class="w"/>
+      <rect x="214" y="0" width="38" height="8" class="g1"/>
+      <rect x="256" y="0" width="12" height="8" class="o"/>
+    </g>
+
+    <text x="0" y="396" class="p">Build useful, reliable technology. Deeply understand systems before adding complexity.</text>
+    <text x="0" y="420" class="p">I want to write better, more robust software by mastering how software breaks and how attackers think.</text>
+    <text x="0" y="444" class="p">Security first, resilience always, complexity only when necessary.</text>
+  </g>
+
+  <!-- ==================== BEYOND CODE ==================== -->
+  <g transform="translate(36, 0)">
+    <text x="0" y="502" class="h">BEYOND CODE</text>
+    <g transform="translate(740, 486)">
+      <rect x="0" y="0" width="36" height="8" class="g1"/>
+      <rect x="40" y="0" width="14" height="8" class="w"/>
+      <rect x="58" y="0" width="46" height="8" class="g1"/>
+      <rect x="108" y="0" width="20" height="8" class="g1"/>
+      <rect x="132" y="0" width="60" height="8" class="g1"/>
+      <rect x="196" y="0" width="14" height="8" class="w"/>
+      <rect x="214" y="0" width="40" height="8" class="g1"/>
+      <rect x="258" y="0" width="12" height="8" class="o"/>
+    </g>
+
+    <text x="0" y="538" class="p">Cybersecurity rabbit holes, CTFs, tech communities, exploring new tools, and thinking differently —</text>
+    <text x="0" y="562" class="p">that's me outside of code.</text>
+  </g>
+</svg>
